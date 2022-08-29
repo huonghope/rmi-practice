@@ -1,0 +1,3 @@
+grant codeBase "file:/home/plass/RMI/server/bin" {
+    permission java.security.AllPermission;
+};
